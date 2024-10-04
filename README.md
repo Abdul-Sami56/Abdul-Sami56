@@ -1,4 +1,4 @@
-- 👋 Hi, - 👋 Hi, <h1 align="center">Hi 👋, I'm Abdul Sami Sadik Shaikh</h1>
+- 👋 Hi, <h1 align="center">Hi 👋, I'm Abdul Sami Sadik Shaikh</h1>
 <h3 align="center">A BTech student from India</h3>
 
 - 🌱 I’m currently learning **Python**
